@@ -1,5 +1,4 @@
-ru Русская версия — STM32CubeProgrammer
-markdown
+
 # STM32CubeProgrammer — утилита прошивки и конфигурации STM32 MCU и памяти
 
 <div align="center">
