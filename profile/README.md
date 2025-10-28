@@ -2,7 +2,7 @@
 # STM32CubeProgrammer — утилита прошивки и конфигурации STM32 MCU и памяти
 
 <div align="center">
-<img src="https://www.st.com/bin/ecommerce/api/image.PF265487.en.feature-description-include-personalized-no-cpn-large.jpg" width="820" alt="STM32CubeProgrammer Interface">
+<img src="https://www.segger.com/fileadmin/images/press-releases/2024/J-Link-supports-STM32-Programmer-Monitor_01.png" width="820" alt="STM32CubeProgrammer Interface">
 </div>
 
 <div align="center">
